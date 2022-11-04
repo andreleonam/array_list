@@ -1,7 +1,5 @@
 package Entities;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class Funcionario {
 
 	private Integer id;
